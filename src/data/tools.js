@@ -7,15 +7,8 @@ export const tools = [
   },
   {
     id: 2,
-    title: "Hashtag Generator",
-    description: "Generate relevant hashtags for your content",
-    category: "Content"
-  },
-  {
-    id: 3,
-    title: "Caption Generator",
-    description: "Create engaging captions for your social media posts",
-    category: "Content"
+    title: "Growth Projection Simulator",
+    description: "Project your future follower count based on monthly growth rate",
+    category: "Analytics"
   }
-  // Add more tools as needed
 ];
